@@ -1,0 +1,110 @@
+{
+  "ads":[{
+      "id":"com.goplaytoday.shiftrace",
+      "name":"Shift Race",
+      "v":"https://github.com/elywude/ads/raw/main/cross_shiftrace.mp4",
+      "s":"https://apps.apple.com/us/app/id1543891119",
+      "m":"https://play.google.com/store/apps/details?id=com.goplaytoday.shiftrace"
+    },
+    {
+      "id":"com.FunnyFace.Hunt",
+      "name":"Hunting season",
+      "v":"https://github.com/elywude/ads/raw/main/cross_HS.mp4",
+      "s":"https://apps.apple.com/us/app/id1536154971",
+      "m":"https://play.google.com/store/apps/details?id=com.FunnyFace.Hunt"
+    },
+    {
+      "id":"com.greenbuttongames.idlebutton",
+      "name":"Idle Green Button",
+      "v":"https://github.com/elywude/ads/raw/main/cross_greenbutton.mp4",
+      "s":"https://apps.apple.com/us/app/id1533526087",
+      "m":"https://play.google.com/store/apps/details?id=com.greenbuttongames.idlebutton"
+    },
+    {
+      "id":"com.fiveminlab.construct",
+      "name":"Billion Builders",
+      "v":"https://github.com/elywude/ads/raw/main/cross_BB.mp4",
+      "s":"https://apps.apple.com/us/app/id1496115334",
+      "m":"https://play.google.com/store/apps/details?id=com.fiveminlab.construct"
+    },
+    {
+      "id":"com.somniumgames.bridgeidle",
+      "name":"Bridge Idle",
+      "v":"https://github.com/elywude/ads/raw/main/cross_IB.mp4",
+      "s":"https://apps.apple.com/us/app/id1533643431",
+      "m":"https://play.google.com/store/apps/details?id=com.somniumgames.bridgeidle"
+    },
+    {
+      "id":"com.pawsome.myfears",
+      "name":"Scary Pranks",
+      "v":"https://github.com/elywude/ads/raw/main/cross_myfears.mp4",
+      "s":"https://apps.apple.com/us/app/id1534844893",
+      "m":"https://play.google.com/store/apps/details?id=com.pawsome.myfears"
+    },
+    {
+      "id":"com.pawsome.howimetyourfather",
+      "name":"Agent Love",
+      "v":"https://srv-store1.gofile.io/download/9ReFQJ/cross_AL.mp4",
+      "s":"",
+      "m":""
+    },
+    
+    {
+      "id":"com.fiveminlab.construct.cn",
+      "name":"Billion Builders",
+      "v":"https://srv-store1.gofile.io/download/9ReFQJ/cross_BB.mp4",
+      "s":"",
+      "m":""
+    },
+    {
+      "id":"com.pawsome.myfears.cn",
+      "name":"Scary Pranks",
+      "v":"https://github.com/elywude/ads/raw/main/cross_myfears.mp4",
+      "s":"https://apps.apple.com/us/app/id1543932017",
+      "m":""
+    },
+    {
+      "id":"com.join.car.cn",
+      "name":"Join Race",
+      "v":"https://github.com/elywude/ads/raw/main/cross_JR.mp4",
+      "s":"https://apps.apple.com/us/app/id1543362007",
+      "m":""
+    },
+    {
+      "id":"com.pawsome.lordofwar.cn",
+      "name":"Gun Master",
+      "v":"https://github.com/elywude/ads/raw/main/cross_GM.mp4",
+      "s":"https://apps.apple.com/us/app/id1543361918",
+      "m":""
+    },
+    {
+      "id":"com.kbpro.citycop3d.cn",
+      "name":"City Cop 3D",
+      "v":"https://github.com/elywude/ads/raw/main/cross_CCop.mp4",
+      "s":"https://apps.apple.com/us/app/id1544087510",
+      "m":""
+    },
+    
+    {
+      "id":"com.fiveminlab.village",
+      "name":"Idle Village Tycoon",
+      "v":"https://srv-store1.gofile.io/download/9ReFQJ/cross_VT.mp4",
+      "s":"",
+      "m":""
+    },
+    {
+      "id":"com.pawsome.tuneme",
+      "name":"Tune Me",
+      "v":"https://srv-store1.gofile.io/download/9ReFQJ/cross_TM.mp4",
+      "s":"",
+      "m":""
+    },
+    {
+      "id":"com.join.car",
+      "name":"Join Race!",
+      "v":"https://srv-store1.gofile.io/download/9ReFQJ/cross_JR.mp4",
+      "s":"",
+      "m":""
+    }
+  ]
+}

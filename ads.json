@@ -41,21 +41,7 @@
       "s":"https://apps.apple.com/us/app/id1534844893",
       "m":"https://play.google.com/store/apps/details?id=com.pawsome.myfears"
     },
-    {
-      "id":"com.pawsome.howimetyourfather",
-      "name":"Agent Love",
-      "v":"https://github.com/elywude/ads/raw/main/cross_AL.mp4",
-      "s":"",
-      "m":""
-    },
     
-    {
-      "id":"com.fiveminlab.construct.cn",
-      "name":"Billion Builders",
-      "v":"https://github.com/elywude/ads/raw/main/cross_BB.mp4",
-      "s":"",
-      "m":""
-    },
     {
       "id":"com.pawsome.myfears.cn",
       "name":"Scary Pranks",
@@ -82,28 +68,6 @@
       "name":"City Cop 3D",
       "v":"https://github.com/elywude/ads/raw/main/cross_CCop.mp4",
       "s":"https://apps.apple.com/us/app/id1544087510",
-      "m":""
-    },
-    
-    {
-      "id":"com.fiveminlab.village",
-      "name":"Idle Village Tycoon",
-      "v":"https://github.com/elywude/ads/raw/main/cross_VT.mp4",
-      "s":"",
-      "m":""
-    },
-    {
-      "id":"com.pawsome.tuneme",
-      "name":"Tune Me",
-      "v":"https://github.com/elywude/ads/raw/main/cross_TM.mp4",
-      "s":"",
-      "m":""
-    },
-    {
-      "id":"com.join.car",
-      "name":"Join Race!",
-      "v":"https://github.com/elywude/ads/raw/main/cross_JR.mp4",
-      "s":"",
       "m":""
     }
   ]

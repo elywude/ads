@@ -1,16 +1,9 @@
 {
   "ads":[{
-      "id":"com.goplaytoday.shiftracegame",
-      "name":"Shift Race",
-      "v":"https://github.com/elywude/ads/raw/main/cross_shiftrace.mp4",
-      "s":"https://apps.apple.com/us/app/id1557874879",
-      "m":""
-    },
-    {
       "id":"com.goplaytoday.shiftrace",
       "name":"Shift Race",
       "v":"https://github.com/elywude/ads/raw/main/cross_shiftrace.mp4",
-      "s":"",
+      "s":"https://apps.apple.com/us/app/id1543891119",
       "m":"https://play.google.com/store/apps/details?id=com.goplaytoday.shiftrace"
     },
     {

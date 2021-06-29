@@ -41,7 +41,49 @@
       "s":"https://apps.apple.com/us/app/id1534844893",
       "m":"https://play.google.com/store/apps/details?id=com.pawsome.myfears"
     },
-    
+    {
+      "id":"com.goplaytoday.shiftprincess",
+      "name":"Shift Princess",
+      "v":"https://github.com/elywude/ads/raw/main/cross_SP.mp4",
+      "s":"https://apps.apple.com/us/app/id1567598257",
+      "m":"https://play.google.com/store/apps/details?id=com.goplaytoday.shiftprincess"
+    },
+    {
+      "id":"com.greenbuttongames.FishIdle",
+      "name":"Fish idle",
+      "v":"https://github.com/elywude/ads/raw/main/cross_IF.mp4",
+      "s":"https://apps.apple.com/us/app/id1534396279",
+      "m":"https://play.google.com/store/apps/details?id=com.greenbuttongames.FishIdle"
+    },
+    {
+      "id":"com.fivegames.idlecoinbutton",
+      "name":"Idle Coin Button",
+      "v":"https://github.com/elywude/ads/raw/main/cross_ICB.mp4",
+      "s":"https://apps.apple.com/us/app/id1557960810",
+      "m":"https://play.google.com/store/apps/details?id=com.fivegames.idlecoinbutton"
+    },
+    {
+      "id":"com.igdclub.foldingcar",
+      "name":"Folding Car Puzzle",
+      "v":"https://github.com/elywude/ads/raw/main/cross_FCP.mp4",
+      "s":"https://apps.apple.com/us/app/id1548719345",
+      "m":"https://play.google.com/store/apps/details?id=com.igdclub.foldingcar"
+    },
+    {
+      "id":"com.butchersgameskg.officerush",
+      "name":"Office Attack",
+      "v":"https://github.com/elywude/ads/raw/main/cross_OA.mp4",
+      "s":"https://apps.apple.com/us/app/id1564754924",
+      "m":"https://play.google.com/store/apps/details?id=com.butchersgameskg.officerush"
+    },
+    {
+      "id":"com.somniumgames.roveridle",
+      "name":"Space Rover Idle",
+      "v":"https://github.com/elywude/ads/raw/main/cross_SRI.mp4",
+      "s":"",
+      "m":"https://play.google.com/store/apps/details?id=com.somniumgames.roveridle"
+    },
+         
     {
       "id":"com.pawsome.myfears.cn",
       "name":"Scary Pranks",
